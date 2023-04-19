@@ -8,6 +8,8 @@ The module is assessed by a group research project, using data analysis and visu
 ## Our project: Air Pollution and Happiness: a geopolitical issue 
 https://emapop28.wixsite.com/qm2group15
 
+![Video of the cloropleth map in England between 2011 and 2021](https://github.com/EmaaPop/BASC0005-Quantitative-Methods-2-Data-Science-and-Visualisation/blob/main/Data%20video.mp4)
+
 ### Project Overview: 
 Access to good air quality is prioritised in current environmental agendas (COP26): it is equally a political issue. The negative health impacts are well-known— air pollution may cause heart disease, stroke, and lung cancer— yet these effects disproportionately impact economically deprived communities (WHO, 2022). Similarly, subjective well-being (happiness) is a metric strongly linked to economic inequality: if there is more inequality, there tends to be lower perceived levels of happiness (Wienk, et al., 2022).
 
@@ -21,7 +23,7 @@ With all of the above considered, the research question we seek to answer is: ho
 https://emapop28.wixsite.com/qm2group15/about-8
 
 ### Correlation Matrix:
+![Picture of Correlatio Matrix](https://github.com/EmaaPop/BASC0005-Quantitative-Methods-2-Data-Science-and-Visualisation/blob/main/Corr%20mat.png)
 https://emapop28.wixsite.com/qm2group15/correlation-matrix
 
-### Cloropleth map from 2011 to 2021:
 
